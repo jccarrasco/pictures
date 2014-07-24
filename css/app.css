@@ -1,0 +1,72 @@
+html, body {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+body {
+  font-size: 1rem;
+  background: #fff;
+}
+
+h1 {
+  margin: 0 0 1rem 0;
+}
+
+p {
+  font-size: inherit;
+}
+
+.image_holder {
+  width: 100%;
+  height: 80%
+  min-height: 80%;
+  position: absolute;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+.menu_button {
+  color: yellow;
+  border:  none;
+  background-color:  aqua;
+  width: 49%;
+  height: 10%;
+  text-align: center:
+  padding: 25px;
+  font-size: 1em;
+  position: relative;
+}
+
+div.menu {
+  position: fixed;
+  width: 100%;
+  height: 5%;
+  background-color: aqua;
+  padding: 10px;
+  top: 0px;
+}
+
+.footer_button {
+  color: yellow;
+  border: none;
+  background-color:  aqua;
+  width: 49%;
+  height: 10%;
+  text-align: center:
+  padding: 25px;
+  font-size: 1em;
+  position: relative;
+}
+
+div.foot_menu {
+  position: fixed;
+  width: 100%;
+  height: 10%;
+  background-color: aqua;
+  padding: 0px;
+  bottom: 0px;
+}
+
